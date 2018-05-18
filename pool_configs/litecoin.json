@@ -2,20 +2,20 @@
     "enabled":true,
     "coin": "litecoin.json",
 
-    "address": "NMvGGEpWRZFmkiMkvAkinh9uhrC9wppe77",
-    "_comment_address": "pools btcnano address; ex, NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC",
+    "address": "LULk9PTuc6BH5f9F3s8NgMTTH131PNAKrN",
+    "_comment_address": " address; ex, NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC",
 
-    "zAddress": "NMvGGEpWRZFmkiMkvAkinh9uhrC9wppe77",
+    "zAddress": "Lg12uL2iXKqVW4BE6W7pFgyDDBYu3cUaCo",
     "_comment_zAddress": "shielding not required in btcnano, not used",
 
-    "tAddress": "NMvGGEpWRZFmkiMkvAkinh9uhrC9wppe77",
+    "tAddress": "LNMCiqxn3TMtBaoKqazc68a29y3tDN3e9r",
     "_comment_tAddress": "set to same as pools btcnano address; ex, NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC",
 
     "walletInterval": 1,
     "_comment_walletInterval": "Used to cache komodo coin stats, shielding not performed.",
 
     "rewardRecipients": {
-        "NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC": 1.0
+        "Lf6ENfNxUYATeNif6RKfmkd6xtMnhfKXLx": 5.0
     },
 
     "tlsOptions": {
@@ -59,7 +59,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 9657,
+            "port": 9332,
             "user": "tanshuang",
             "password": "tan07060112"
         }
