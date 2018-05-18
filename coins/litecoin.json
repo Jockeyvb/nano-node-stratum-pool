@@ -1,0 +1,6 @@
+{
+    "name": "Lite coin",
+    "symbol": "LTE",
+    "algorithm": "equihash",
+    "txfee": 0.000005
+}
